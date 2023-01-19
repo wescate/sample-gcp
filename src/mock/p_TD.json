@@ -1,0 +1,22 @@
+{
+    "code":"TD",
+    "name": "Tipo Documento",     
+    "details": [
+        {
+            "code": "DNI",
+            "description": "Documento Nacional de Identidad"
+        },
+        {
+            "code": "PASS",
+            "description": "Pasaporte"
+        },
+        {
+            "code": "CE",
+            "description": "Carnet de Extranjeria"
+        },
+        {
+            "code": "RUC",
+            "description": "Registro Unico de Contribuyente"
+        }
+    ]
+}
